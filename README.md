@@ -1,4 +1,5 @@
-## Hey, I’m Naman 👋  
-Mechanical Engineering student who loves designing stuff and simulating them.
+##Hey, I’m Naman 👋  
+Mechanical Engineering student who enjoys designing in CAD and simulating real-world systems.  
 
-Currently exploring automotive design, prototyping, and vehicle systems. I like cars and im a history enthusiast, the real history not the fluff taught in schools.
+Currently focused on automotive design, prototyping, and vehicle dynamics.  
+Car enthusiast + history nerd.
